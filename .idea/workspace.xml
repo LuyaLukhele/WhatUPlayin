@@ -5,7 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cddbd999-fdd1-4cf3-b1c4-1c5a5beea373" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luyalukhele/WhatUPlayin/WhatUPlayinApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luyalukhele/WhatUPlayin/WhatUPlayinApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luyalukhele/WhatUPlayin/config/AppProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luyalukhele/WhatUPlayin/config/WebMvcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luyalukhele/WhatUPlayin/model/AuthProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luyalukhele/WhatUPlayin/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luyalukhele/WhatUPlayin/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luyalukhele/WhatUPlayin/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luyalukhele/WhatUPlayin/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/luyalukhele/WhatUPlayin/WhatUPlayinApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/luyalukhele/WhatUPlayin/WhatUPlayinApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/luyalukhele/WhatUPlayin/config/AppProperties$Auth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/luyalukhele/WhatUPlayin/config/AppProperties$OAuth2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/luyalukhele/WhatUPlayin/config/AppProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/luyalukhele/WhatUPlayin/config/WebMvcConfig.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +31,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -31,11 +48,6 @@
       <MavenGeneralSettings>
         <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="2KornLoAAtOma8KACFKFW7qv47p" />
@@ -52,6 +64,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/luyanda/Documents/springboot-blog-rest-api",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,6 +73,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "spring.boot",
+    "spring.configuration.checksum": "7786f7b6f1fa5e12ff0f740c0920735b",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -80,7 +94,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674651951573</updated>
-      <workItem from="1674651955817" duration="3609000" />
+      <workItem from="1674651955817" duration="3910000" />
+      <workItem from="1674732530390" duration="4695000" />
+      <workItem from="1675200235501" duration="23000" />
+      <workItem from="1675407357908" duration="14065000" />
     </task>
     <servers />
   </component>
